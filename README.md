@@ -1,4 +1,4 @@
-# crypto_real_time-price-data
+# e-commerse website
 
 ## Overview
 This project is a simple, responsive web application built with React.js, Material UI, and Redux Toolkit. It includes essential features such as a landing page with a navbar, image carousel, sign-up and login forms, a product table, and user authentication management. The user data is stored locally, and product management features are only accessible to authenticated users.
