@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,31 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.form{
+max-width:22rem; 
+margin-top:5rem ;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+
+.btn{
+  margin-top:20px;
+   display:grid
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  /* background-color: #2196F3; */
+  padding: 10px;
+}
+.grid-item {
+  /* background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8); */
+  /* padding: 20px;*/
+   /* font-size: 90px;
+  text-align: center;  */
 }
